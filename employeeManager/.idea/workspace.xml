@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f4e86ff1-d21b-4f86-8df1-f3bea7072eac" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../studentRegistration/src/StudentManager.php" beforeDir="false" afterPath="$PROJECT_DIR$/../studentRegistration/src/StudentManager.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../studentRegistration/students.json" beforeDir="false" afterPath="$PROJECT_DIR$/../studentRegistration/students.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1aJARMI7qg11Egn0aU5KGnak999" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../studentRegistration" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4e86ff1-d21b-4f86-8df1-f3bea7072eac" name="Default Changelist" comment="" />
+      <created>1586443313419</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586443313419</updated>
+      <workItem from="1586443314845" duration="6364000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="263" y="246" width="424" height="485" key="FileChooserDialogImpl" timestamp="1586449686211">
+      <screen x="0" y="27" width="1920" height="922" />
+    </state>
+    <state x="263" y="246" width="424" height="485" key="FileChooserDialogImpl/0.27.1920.922@0.27.1920.922" timestamp="1586449686211" />
+    <state x="276" y="412" width="397" height="152" key="NewPhpFileDialog" timestamp="1586448078482">
+      <screen x="0" y="27" width="1920" height="922" />
+    </state>
+    <state x="276" y="412" width="397" height="152" key="NewPhpFileDialog/0.27.1920.922@0.27.1920.922" timestamp="1586448078482" />
+  </component>
+</project>
